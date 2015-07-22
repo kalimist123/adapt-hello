@@ -1,6 +1,6 @@
 {
   "name": "adapt-hello",
-  "version": "0.0.7",
+  "version": "0.0.4",
   "description": "simple component",
   "main": "/js/hello.js",
   "keywords": [
