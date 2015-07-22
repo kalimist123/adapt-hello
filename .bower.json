@@ -12,5 +12,9 @@
   "framework": "~2.0.0",
   "dependencies": {
     "adapt-contrib-text": "*"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git://github.com/kalimist123/adapt-hello.git"
   }
 }
