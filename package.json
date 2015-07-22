@@ -4,5 +4,9 @@
   "description": "A text component",
   "main": "",
   "author": "Mick Lennon",
-  "license": "GPL v3"
+  "license": "GPL v3",
+    "repository": {
+    "type": "git",
+    "url": "git://github.com/kalimist123/adapt-hello.git"
+  }
 }
