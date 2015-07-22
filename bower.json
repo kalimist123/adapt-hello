@@ -1,7 +1,7 @@
 {
   "name": "adapt-hello",
   "version": "0.0.4",
- 
+  "homepage": "https://github.com/kalimist123/adapt-hello",
   "description": "a really simple adapt plugin",
   "main": "/js/hello.js",
   "component": "hello",
