@@ -1,0 +1,17 @@
+{
+  "name": "adapt-hello",
+  "version": "0.0.4",
+ 
+  "description": "a really simple adapt plugin",
+  "main": "/js/hello.js",
+  "component": "hello",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3",
+  "framework": "~2.0.0",
+  "dependencies": {
+    "adapt-contrib-text": "*"
+  }
+}
